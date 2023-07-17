@@ -1,0 +1,1 @@
+web: panel serve --address="0.0.0.0" --port=$PORT dkvchatbot.ipynb --allow-websocket-origin=dkvchatbot.herokuapp.com
