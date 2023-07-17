@@ -1,3 +1,6 @@
 langchain
 chroma
 panel
+openai
+hvplot
+scikit-learn
