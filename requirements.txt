@@ -1,15 +1,2 @@
-Requirements for test_july9th
-
-langchain:
-  -llms
-  -document_loaders
-  -indexes
-  -text_splitter
-  -embeddings
-  -vector stores
-  -chains
-
+langchain
 chroma
-
-  
-  
